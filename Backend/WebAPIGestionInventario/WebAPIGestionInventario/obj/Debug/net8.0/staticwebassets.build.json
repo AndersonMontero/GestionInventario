@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OVALoDRHjBdcslYkAelz9gTVjBm3vce7Lg9fBhycsho=",
+  "Source": "WebAPIGestionInventario",
+  "BasePath": "_content/WebAPIGestionInventario",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

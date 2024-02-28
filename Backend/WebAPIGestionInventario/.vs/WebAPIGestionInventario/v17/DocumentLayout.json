@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|c:\\users\\pc-anderson\\source\\repos\\webapigestioninventario\\webapigestioninventario\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|solutionrelative:webapigestioninventario\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|c:\\users\\pc-anderson\\source\\repos\\webapigestioninventario\\webapigestioninventario\\controllers\\movimientoproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|solutionrelative:webapigestioninventario\\controllers\\movimientoproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|c:\\users\\pc-anderson\\source\\repos\\webapigestioninventario\\webapigestioninventario\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|solutionrelative:webapigestioninventario\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|c:\\users\\pc-anderson\\source\\repos\\webapigestioninventario\\webapigestioninventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|solutionrelative:webapigestioninventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|c:\\users\\pc-anderson\\source\\repos\\webapigestioninventario\\webapigestioninventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|solutionrelative:webapigestioninventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|c:\\users\\pc-anderson\\source\\repos\\webapigestioninventario\\webapigestioninventario\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|solutionrelative:webapigestioninventario\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|c:\\users\\pc-anderson\\source\\repos\\webapigestioninventario\\webapigestioninventario\\models\\request\\productorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|solutionrelative:webapigestioninventario\\models\\request\\productorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|c:\\users\\pc-anderson\\source\\repos\\webapigestioninventario\\webapigestioninventario\\models\\dto\\movimientoproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|solutionrelative:webapigestioninventario\\models\\dto\\movimientoproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|c:\\users\\pc-anderson\\source\\repos\\webapigestioninventario\\webapigestioninventario\\models\\movimientoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|solutionrelative:webapigestioninventario\\models\\movimientoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|c:\\users\\pc-anderson\\source\\repos\\webapigestioninventario\\webapigestioninventario\\models\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|solutionrelative:webapigestioninventario\\models\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|c:\\users\\pc-anderson\\source\\repos\\webapigestioninventario\\webapigestioninventario\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2A244-93FF-497E-AD86-06FD3DA5DAD5}|WebAPIGestionInventario\\WebAPIGestionInventario.csproj|solutionrelative:webapigestioninventario\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIGestionInventario\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\appsettings.json",
+              "RelativeToolTip": "WebAPIGestionInventario\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T07:25:24.41Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutenticacionController.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Controllers\\AutenticacionController.cs",
+              "RelativeDocumentMoniker": "WebAPIGestionInventario\\Controllers\\AutenticacionController.cs",
+              "ToolTip": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Controllers\\AutenticacionController.cs",
+              "RelativeToolTip": "WebAPIGestionInventario\\Controllers\\AutenticacionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T07:43:21.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIGestionInventario\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Program.cs",
+              "RelativeToolTip": "WebAPIGestionInventario\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T07:27:46.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Models\\Request\\ProductoRequest.cs",
+              "RelativeDocumentMoniker": "WebAPIGestionInventario\\Models\\Request\\ProductoRequest.cs",
+              "ToolTip": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Models\\Request\\ProductoRequest.cs",
+              "RelativeToolTip": "WebAPIGestionInventario\\Models\\Request\\ProductoRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:54:38.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovimientoProductosDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Models\\Dto\\MovimientoProductosDto.cs",
+              "RelativeDocumentMoniker": "WebAPIGestionInventario\\Models\\Dto\\MovimientoProductosDto.cs",
+              "ToolTip": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Models\\Dto\\MovimientoProductosDto.cs",
+              "RelativeToolTip": "WebAPIGestionInventario\\Models\\Dto\\MovimientoProductosDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:13:09.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovimientoProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Controllers\\MovimientoProductosController.cs",
+              "RelativeDocumentMoniker": "WebAPIGestionInventario\\Controllers\\MovimientoProductosController.cs",
+              "ToolTip": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Controllers\\MovimientoProductosController.cs",
+              "RelativeToolTip": "WebAPIGestionInventario\\Controllers\\MovimientoProductosController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T05:15:00.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "WebAPIGestionInventario\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "WebAPIGestionInventario\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T02:21:08.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "WebAPIGestionInventario\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Models\\Usuario.cs",
+              "RelativeToolTip": "WebAPIGestionInventario\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T07:41:09.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovimientoProductos.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Models\\MovimientoProductos.cs",
+              "RelativeDocumentMoniker": "WebAPIGestionInventario\\Models\\MovimientoProductos.cs",
+              "ToolTip": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Models\\MovimientoProductos.cs",
+              "RelativeToolTip": "WebAPIGestionInventario\\Models\\MovimientoProductos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T05:08:36.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Models\\Dto\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "WebAPIGestionInventario\\Models\\Dto\\ProductoDto.cs",
+              "ToolTip": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Models\\Dto\\ProductoDto.cs",
+              "RelativeToolTip": "WebAPIGestionInventario\\Models\\Dto\\ProductoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T03:14:51.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "WebAPIGestionInventario\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\PC-Anderson\\source\\repos\\WebAPIGestionInventario\\WebAPIGestionInventario\\Models\\Producto.cs",
+              "RelativeToolTip": "WebAPIGestionInventario\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:03:54.42Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
